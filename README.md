@@ -10,3 +10,5 @@ Date: September, 2022
 
 time 11:34
 >>>>>>> a660933492907962b728c955270db44c106a1252
+
+location: CEG building Hall E
